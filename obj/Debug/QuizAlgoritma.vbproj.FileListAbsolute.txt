@@ -1,0 +1,14 @@
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\bin\Debug\QuizAlgoritma.exe
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\bin\Debug\QuizAlgoritma.pdb
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\bin\Debug\QuizAlgoritma.xml
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\ResolveAssemblyReference.cache
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.Form1.resources
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.Resources.resources
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.Soal4.resources
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.Soal1.resources
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.vbproj.GenerateResource.Cache
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.exe
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.xml
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.pdb
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.Soal2.resources
+D:\tugasalgoritma\QuizAlgoritma\QuizAlgoritma\obj\Debug\QuizAlgoritma.Soal3.resources
